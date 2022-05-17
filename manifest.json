@@ -1,0 +1,7 @@
+{
+    "name": "conscience",
+    "description": "Catholic chrome web extension to examine your conscience and prepare for reconciliation.",
+    "version": "1.0",
+    "manifest_version": 3
+}
+  
